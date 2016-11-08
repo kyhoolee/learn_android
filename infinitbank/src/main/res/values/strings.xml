@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InfinitBank</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="toast_error">Errors! Try again</string>
+    <string name="no_internet">No Internet connection</string>
+    <string name="menu_notification">Notification</string>
+    <string name="search_hint">Search</string>
+    <string name="empty_text">No available result</string>
+    <string name="label_copyright">© 2016 Infinit</string>
+</resources>

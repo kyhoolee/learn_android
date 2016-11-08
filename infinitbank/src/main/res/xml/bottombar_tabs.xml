@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home_black_24dp"
+        title="Home" />
+    <tab
+        id="@+id/tab_card"
+        icon="@drawable/ic_credit_card_black_24dp"
+        title="Card" />
+    <tab
+        id="@+id/tab_more"
+        icon="@drawable/ic_add_circle_outline_black_24dp"
+        title="Spend" />
+    <tab
+        id="@+id/tab_spending"
+        icon="@drawable/ic_group_work_black_24dp"
+        title="Plan" />
+    <tab
+        id="@+id/tab_settings"
+        icon="@drawable/ic_settings_black_24dp"
+        title="Setting" />
+</tabs>
